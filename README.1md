@@ -1,0 +1,19 @@
+# 📰 Fake News Detection System
+
+This project uses Natural Language Processing (NLP) and a machine learning model to detect whether a news article is real or fake.
+
+## 💻 Features
+- Logistic Regression / Naive Bayes based model
+- Trained using TF-IDF vectorization
+- Google Colab notebook with training and prediction
+
+## 📂 Files
+- Main Colab notebook: https://colab.research.google.com/drive/125dM0Wx12zhteNDT8gD9YPRAnj-zMM-u#scrollTo=evxBKUO9t0iC
+
+## 🚀 How to Run
+1. Upload the notebook to [Google Colab](https://colab.research.google.com/)
+2. Run all cells step by step
+3. You can test the model with your own text
+
+## 📌 Author
+- VENKAT SAI REDDY
